@@ -11,15 +11,16 @@
 ### Kong Taxonomy review
 
 ### Kong Error Codes
-    # 401 Authentication failure 
-    # 429 too many requests , rate limit exceeded
+    ``` # 401 Authentication failure 
+        # 429 too many requests , rate limit exceeded
+    ```    
+    
 ### Kong Elastic/Appdynamic 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Kong Firewall requests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block

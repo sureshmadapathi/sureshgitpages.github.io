@@ -1,8 +1,19 @@
 ## Welcome to Kong APIGateway
 
-What is Kong ?
-KOng Features .
-Kong Authentication types
+### What is Kong ?
+
+### Kong Features 
+
+### Kong Authentication types
+
+### Kong Architecture
+
+### Kong Taxonomy review
+
+### Kong Error Codes
+    # 401 Authentication failure 
+    # 429 too many requests , rate limit exceeded
+### Kong Elastic/Appdynamic 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
